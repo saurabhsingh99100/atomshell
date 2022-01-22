@@ -45,3 +45,5 @@ $ make run
 Now, switch back to terminal-2 and you should see AtomSim booting atomshell. Press `enter` to continue with the boot. You should see the atomshell prompt.
 
 To see all the supported commands run the `help` command
+
+To exit screen command on terminal-2, press `ctrl` + `a`, then press `:` and type `quit`, press `enter` to exit.
