@@ -1,6 +1,7 @@
 # atomshell
-A basic shell program for embedded processors
+A basic shell program for embedded processors.
 
+![Atomshell](atomshell.png)
 ## Getting Started
 
 **Setup RISC-V Atom**
