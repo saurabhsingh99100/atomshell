@@ -31,4 +31,5 @@ copy:
 
 .PHONY: clean
 clean:
-	rm -f bin/*
+	rm -f $(bin_dir)/*
+	rm -f $(obj_dir)/*
